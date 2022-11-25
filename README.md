@@ -17,3 +17,4 @@ PUSH CODINGAN DI GITHUB
 
 FORMAT REPOSITORY UTS_DAA5_NIM
 
+link video no 1 : https://youtu.be/9qXIW3izpGA
